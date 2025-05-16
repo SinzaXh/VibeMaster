@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+tgcrypto
+pytgcalls==2.0.0.dev8
+youtube_dl
+python-dotenv
