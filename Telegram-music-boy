@@ -1,0 +1,6 @@
+telegram-music-bot/
+│
+├── bot.py                # Main bot script
+├── requirements.txt      # All dependencies
+├── config.env            # Environment variables
+├── README.md             # Project info
